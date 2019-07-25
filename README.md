@@ -1,5 +1,5 @@
 # NIFTY50data
-It is a single .py file that give NIFTY50 index data for the dates given by user as a csv file.
+It is a single .py file that give NIFTY50 index data in a csv file for the dates given by user.
 
 This code extracts particularly  NIFTY 50 Index data from 
 https://nseindia.com/products/content/equities/indices/historical_index_data.htm
