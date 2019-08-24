@@ -4,7 +4,7 @@ Important:
     The data is stored finally in df as in it's raw form and df_stat a copy of df is uded for stats and plotting.
     This script can be modified furthe for better executin time in many ways one of which is to,
     perform data cleansing on a final combined df : data set, rather then everytime data is extracted in a interval of 99 values.
-    Current execution time is very large. Evryone is invited to change and modify the code and make it better.
+    Current execution time is very large. Everyone is invited to change and modify the code and make it better.
     I will also keep making changes whenever I have time.
     
     The rolling mean is applied on the open price columns of the dataframe.
