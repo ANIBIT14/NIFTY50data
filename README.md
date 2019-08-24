@@ -6,7 +6,7 @@ https://nseindia.com/products/content/equities/indices/historical_index_data.htm
 for the time period given by user and stores in a .csv file.
 
 It also contains code applying rolling statistics on the extracted data, but that part has been commented out.
-We can use this code to extract datafrom different index from the same site with some modification.
+We can use this code to extract data from different index from the same site with some modification.
 
 The drawback of this code is it's execution time which can be reduced very much by some suggestions given in the .py file.
 It can be optimized in many ways as it is an initial file.
